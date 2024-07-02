@@ -7,11 +7,11 @@ L’association cherche à œuvrer en collaboration avec des organismes publics,
 
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+A titre indicatif, nos activités  sont (liste non-exhaustive) :
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
+- Accompagnement à l'**utilisation de l'informatique** 
+- Conception, développement et accompagnement de **solutions pédagogiques**
+- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la biologie, écologie, santé/nutrition, la gestion de budget familial ou d’entreprise, la création de scripts d'analyse et de visualisation de données…
 - Projets à **impact environnemental positif**
 - Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+
